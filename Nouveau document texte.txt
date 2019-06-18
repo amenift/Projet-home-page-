@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+    <link rel="stylesheet" href="reg.css">
+</head>
+<body>
+        <div class="one">
+                <div class="partone">
+                        <h1 style="color:grey"> Userpage </h1>
+                </div>
+                <div class="Info">
+                <ul class="l1">
+                            <li style="color:grey">Home</li>
+                            <li style="color:grey">Register</li>
+                            <li style="color:grey">Login</li>
+                            <li style="color:grey">Member Area</li>
+                </ul>           
+                            
+                        
+                      
+                 </div>
+                     &nbsp;
+        </div>
+        <div class="two">
+  
+        </div>
+        <div>
+        <div class="three">
+            <div class="mot">
+                <h1 style="color: white">Register</h1><hr>
+            
+
+            </div>
+
+        
+        <div>
+        <div id="first">
+                        
+                        <label>Full Name :</label>
+                        <input id="fname" placeholder="Full Name" type="text">
+                        <label>Email :</label><br>
+                        <input id="email" placeholder="Email" type="text">
+                        <label>username :</label><br>
+                        <input id="username" placeholder="username" type="text">
+                        <label>password :</label><br>
+                        <input id="password" placeholder="password" type="text">
+                        <input id="submit" type="submit" value="Submit">
+                       
+        </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+</body>
